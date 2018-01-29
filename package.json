@@ -1,0 +1,22 @@
+{
+  "name": "farm_serial2socket",
+  "version": "1.0.0",
+  "description": "SERIAL TO TCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://taoroot@git.lujiantao.xyz:9022/taoroot/farm_serial2socket.git"
+  },
+  "keywords": [
+    "serial",
+    "socket"
+  ],
+  "author": "jianroottao@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^6.0.4"
+  }
+}
